@@ -1,4 +1,5 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NamaUsernameAnda/NamaRepositori/blob/main/Notebook%20pelatihan%20model.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Benhard121/About
+Game Review Sentiment Analysis/blob/main/Notebook%20pelatihan%20model.ipynb)
 # 🎮 Game Review Sentiment Analysis (Roblox Reviews)
 
 Proyek *Machine Learning* dan *Natural Language Processing* (NLP) untuk melakukan klasifikasi otomatis sentimen ulasan pengguna terhadap gim (studi kasus: **Roblox**) pada Google Play Store. Model ini dirancang untuk mengelompokkan ulasan menjadi kategori **Positif** atau **Negatif** dengan akurasi tinggi menggunakan pendekatan *Text Preprocessing* khusus dan algoritma *Logistic Regression*.
